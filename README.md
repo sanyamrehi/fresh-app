@@ -1,2 +1,2 @@
-# fresh-app
+# shopping-app
 shopping cart website
